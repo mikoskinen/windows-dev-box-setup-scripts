@@ -1,3 +1,4 @@
+http://boxstarter.org/package/url?https://raw.githubusercontent.com/mikoskinen/windows-dev-box-setup-scripts/master/dev_app_desktop_.NET.ps1
 
 # About this project
 The goal of this project is to provide a central place to share ideas for streamlining dev box setup and provide sample scripts for common dev scenarios. It's likely you will want to take the scripts here and modify them to fit your particular needs. When you make those changes if you think others would benefit please consider submitting a PR. Before you contribute please see the [Contribution Guidelines](CONTRIBUTING.md).
@@ -19,11 +20,6 @@ A recipe is the script you run.  It calls multiple helper scripts.  These curren
 
 ## You may want to customize the scripts
 These scripts should cover a lot of what you need but will not likely match your personal preferences exactly. In this case please fork the project and change the scripts however you desire. We really appreciate PR's back to this project if you have recommended changes.
-
-*Note: The one-click links use the following format.  When working out of a different Fork or Branch you'll want to update the links as follows:*
-
-`http://boxstarter.org/package/url?https://raw.githubusercontent.com/GITHUB_DOMAIN/windows-dev-box-setup-scripts/YOUR_BRANCH/RECIPE_NAME.ps1
-`
 
 For more info on testing your changes take a look at the [contribution guidelines](CONTRIBUTING.md).
 
